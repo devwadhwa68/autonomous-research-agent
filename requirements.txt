@@ -4,4 +4,4 @@ langchain-groq
 langchain-community
 python-dotenv
 fpdf2
-duckduckgo-search
+duckduckgo-search==6.3.5
