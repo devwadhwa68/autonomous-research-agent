@@ -4,4 +4,10 @@ langchain-groq
 langchain-community
 python-dotenv
 fpdf2
-duckduckgo-search==6.3.5
+streamlit
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+fpdf2
+ddgs
