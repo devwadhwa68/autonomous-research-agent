@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 search_history.json
+research_*.md
+research_*.pdf
