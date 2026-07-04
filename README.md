@@ -1,5 +1,9 @@
 # Autonomous Research Agent
 
+🔗 **Live Demo:** https://autonomous-research-agent-ensb4nbbcfyolueuzsw3ab.streamlit.app/
+
+An autonomous AI agent that searches multiple external sources for a given topic...
+
 An autonomous AI agent that searches multiple external sources for a given topic, analyzes the results, removes duplicates, and generates a structured, actionable research report with references — built using LangChain, Groq (LLaMA 3.1), and Streamlit.
 
 ## Features
